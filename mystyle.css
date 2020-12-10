@@ -1,0 +1,39 @@
+.intro{
+	background-color: silver;
+	padding-top: 20px;
+	padding-right:500px;
+	padding-bottom: 200px;
+	padding-left: 500px;
+}
+@media screen and (min-width: 480px){
+	.intro{
+	background-color: lightblue;
+	padding-top: 20px;
+	padding-right:500px;
+	padding-bottom: 200px;
+	padding-left: 500px;
+	}
+}
+.name{
+	border: 1px solid black;
+}
+.GR{
+	color: green;
+}
+#text{
+	font-weight: bold;
+}
+.color{
+	border: 1px
+	background-color: navy;
+}
+.margin{
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3%;
+}
+.float{
+	float: right;
+	margin: -80px 20px 20px 20px;
+}
